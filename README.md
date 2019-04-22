@@ -1,5 +1,5 @@
 # Synapse-counting  
-> Use darknet to detect of Asymmetric Synapse and Symmetric Synapse (Windows MSVS2015 and OpenCV4.1) on CPU
+> Use darknet to detect Asymmetric Synapse and Symmetric Synapse (Windows MSVS2015 and OpenCV4.1) on CPU
 
 ## Synapse dataset  
 We use the Annotation tool **[Yolo_mark](https://github.com/lcylmhlcy/Yolo_mark)** to label the synapse images.  
